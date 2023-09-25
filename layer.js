@@ -1,4 +1,4 @@
-class Layer 
+export default class Layer 
 {
     #canvas;
     #ctx;
